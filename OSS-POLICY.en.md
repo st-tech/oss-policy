@@ -1,6 +1,6 @@
 # 0. About this policy document
 
-This policy defines the matters of copyrights and patent rights concerning the open source software (the “OSS”), which is created or utilized by ZOZO Technologies, Inc. and its subsidiaries (collectively, the “Company”), and their employees (the “Employees”).
+This policy defines the matters of copyrights and patent rights concerning the open source software (the “OSS”), which is created or utilized by ZOZO, Inc. and its subsidiaries (collectively, the “Company”), and their employees (the “Employees”).
 
 The OSS Management Organization shall create and manage this document and shall revise its contents when necessary. In addition, this document shall be published in accordance with the Creative Commons Zero (the “CC0”) and shall be dealt with in accordance with the [CC0 license](https://creativecommons.org/publicdomain/zero/1.0/).
 
