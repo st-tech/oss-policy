@@ -1,6 +1,6 @@
 # OSS Policy
 
-This repository contains source code of OSS policy at ZOZO Technologies, Inc.
+This repository contains source code of OSS policy at ZOZO, Inc.
 
 ## License
 
@@ -16,7 +16,7 @@ We have waived all copyrights to the contents in this repository as described in
   To the extent possible under law,
   <a rel="dct:publisher"
      href="https://github.com/st-tech/oss-policy">
-    <span property="dct:title">ZOZO Technologies, Inc.</span></a>
+    <span property="dct:title">ZOZO, Inc.</span></a>
   has waived all copyright and related or neighboring rights to
   <span property="dct:title">OSS Policy</span>.
 This work is published from:
