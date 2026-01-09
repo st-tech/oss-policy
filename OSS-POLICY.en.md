@@ -164,4 +164,6 @@ As for the OSS owned by the Company, other OSS provided by third parties must be
 
 # 7. Treatment of OSS Activities in Work Regulations
 
-OSS activities, including contributions to external OSS, development of personal OSS, and community support shall be admitted as business work.
+OSS activities, including contributions to external OSS, development of personal OSS, and OSS community support shall be admitted as business work.
+
+(The details of OSS community support that shall be admitted as business work shall be prescribed separately in the provisions titled “OSS Activities Admitted as Business Work.”)
